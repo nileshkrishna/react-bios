@@ -1,6 +1,15 @@
 .header{
+display:flex;
 
 &-logo{
+margin-left:20px;
 color:deepskyblue;
 }
+
+&-profile{
+margin-left:auto;
+margin-right:20px;
+color:green;
+}
+
 }

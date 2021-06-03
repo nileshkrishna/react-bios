@@ -1,6 +1,8 @@
+import {Home} from '../components'
+
 function App() {
   return (
-    <div> BIOS Application </div>
+    <div> <Home/> </div>
   );
 }
 
